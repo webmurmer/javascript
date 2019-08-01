@@ -7,7 +7,7 @@ ul#css3menu_top li:hover>*{
 ul#css3menu_top li:hover{
 	position:relative;}
 ul#css3menu_top ul ul{
-	position:absolute;left:100%;top:0;}
+	position:absolute;left:100%;top:0;z-index:99999}
 ul#css3menu_top{
 	display:block;font-size:0;float:left;}
 ul#css3menu_top li{
