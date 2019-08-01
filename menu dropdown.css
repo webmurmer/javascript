@@ -17,7 +17,7 @@ ul#css3menu_top>li,ul#css3menu_top li{
 ul#css3menu_top a:active, ul#css3menu_top a:focus{
 	outline-style:none;}
 ul#css3menu_top a{
-	display:block;vertical-align:middle;text-align:left;text-decoration:none;font:bold 14px Trebuchet MS,sans-serif;color:#000;text-shadow:#FFF 0 0 1px;cursor:pointer;padding:10px;background-color:#444444;background-image:url("mainbk.png");background-repeat:repeat;background-position:0 0;border-width:0 0 0 1px;border-style:solid;border-color:#C0C0C0;}
+	display:block;vertical-align:middle;text-align:left;text-decoration:none;font:bold 14px Trebuchet MS,sans-serif;color:#000;text-shadow:#FFF 0 0 1px;cursor:pointer;padding:10px;background-color:#0caca2;;background-repeat:repeat;background-position:0 0;border-width:0 0 0 1px;border-style:solid;border-color:#C0C0C0;}
 ul#css3menu_top ul li{
 	float:none;margin:10px 0 0;}
 ul#css3menu_top ul a{
